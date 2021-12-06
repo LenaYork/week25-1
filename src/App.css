@@ -1,0 +1,15 @@
+.App{
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.title {
+  color: olive;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pie-container {
+  width: 50%;
+  margin: 0 auto;
+}
